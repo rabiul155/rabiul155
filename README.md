@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)]
+![MasterHead](https://i.gifer.com/1kc1.gif)]
 <h1 align="center">Hi 👋, I'm Rabiul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
