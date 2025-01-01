@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ESG Software**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Postgre SQL**
 
 - 👨‍💻 All of my projects are available at [https://rabiul-islam-portfolio.netlify.app/](https://rabiul-islam-portfolio.netlify.app/)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19A7X61k-h0pCSbX3THMHyT22oOBWAz49/view?usp=drive_link](https://drive.google.com/file/d/19A7X61k-h0pCSbX3THMHyT22oOBWAz49/view?usp=drive_link)
 
-- ⚡ Fun fact **Lazy**
+- ⚡ Fun fact **Fool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
