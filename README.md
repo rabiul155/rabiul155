@@ -76,7 +76,7 @@
 ### 🧠 Competitive Programming
 - 🔗 Codeforces: https://codeforces.com/profile/siyam35  
 - 🔗 LeetCode: https://leetcode.com/u/siyam_ict/  
-- 🔗 CodeChef: https://www.codechef.com/users/ciyam_ict  
+- 🔗 CodeChef: https://www.codechef.com/users/siyam_ict  
 - Strong foundation in **DSA, problem solving & OOP**
 
 ---
